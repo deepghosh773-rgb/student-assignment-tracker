@@ -32,11 +32,6 @@ Assignment records are stored in browser localStorage. They are not synced to an
 - Manual testing only; no automated test framework
 - Browser-local data can be removed by clearing site/browser data
 
-## Third-party assets, templates, generated code, and AI-use declaration
-This prototype was developed with AI assistance for planning, code drafting/revision, documentation, and diagram generation. The submitted student should review and understand all code and should amend this declaration to match the actual work performed and course rules. No external server or database is used. List any additional libraries, templates, icons, or third-party assets here if you add them.
+##  AI-use declaration
+This prototype was developed with AI assistance for planning, code drafting/revision, and documentation generation. No external server or database is used. 
 
-## Version control
-A Git repository link or export with meaningful commit history was not supplied as part of the current working package. Before submission, initialise/verify a Git repository and include a genuine commit history if required by the course. Do not claim commits that were not made.
-
-## Academic integrity
-The student is responsible for verifying the application, explaining the implementation, and following the institution's rules for disclosure of AI assistance.
